@@ -55,6 +55,14 @@ public class Flight : Module
                 {
                     localplayer.gameObject.transform.position += localplayer.gameObject.transform.up * Speed * Time.deltaTime;
                 }
+                if (Input.GetKey(KeyCode.LeftShift))
+                {
+                    Speed = 30f;
+                }
+                else
+                {
+                    Speed = 5f;
+                }
 
                 Networking.LocalPlayer.SetVelocity(Vector3.zero);
             }
