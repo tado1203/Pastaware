@@ -8,5 +8,7 @@ public class PatchManager
         
         harmony.PatchAll(typeof(OnPlayerJoinPatch));
         harmony.PatchAll(typeof(OnPlayerLeftPatch));
+
+        harmony.PatchAll(typeof(AllowAvatarCopingPatch));
     }
 }

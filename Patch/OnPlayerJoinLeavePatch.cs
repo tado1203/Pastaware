@@ -1,4 +1,5 @@
 using HarmonyLib;
+using VRC.Core;
 
 [HarmonyPatch(typeof(idk), nameof(idk.OnPlayerJoined))]
 class OnPlayerJoinPatch

@@ -2,7 +2,7 @@ using VRC.SDKBase;
 
 public class Speed : Module
 {
-    public Speed() : base("Speed", false, UnityEngine.KeyCode.Z) {}
+    public Speed() : base("Speed", false, UnityEngine.KeyCode.X) {}
 
     float OriginalWalkSpeed;
 
@@ -17,7 +17,7 @@ public class Speed : Module
         {
             OriginalWalkSpeed = Networking.LocalPlayer.GetWalkSpeed();
 
-            Networking.LocalPlayer.SetWalkSpeed(6);
+            Networking.LocalPlayer.SetWalkSpeed(10);
         }
     }
 

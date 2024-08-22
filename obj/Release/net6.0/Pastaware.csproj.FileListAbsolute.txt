@@ -21,3 +21,5 @@
 /home/tado/Documents/Pastaware/bin/Release/net6.0/Assembly-CSharp.dll
 /home/tado/Documents/Pastaware/bin/Release/net6.0/VRCCore-Standalone.dll
 /home/tado/Documents/Pastaware/bin/Release/net6.0/UnityEngine.AnimationModule.dll
+/home/tado/Documents/Pastaware/obj/Release/net6.0/Pastaware.sourcelink.json
+/home/tado/Documents/Pastaware/bin/Release/net6.0/UnityEngine.ParticleSystemModule.dll

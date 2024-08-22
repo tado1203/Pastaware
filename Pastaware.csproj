@@ -45,5 +45,8 @@
     <Reference Include="UnityEngine.AnimationModule">
       <HintPath>Library/UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>Library/UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
