@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pastaware")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa031f4b6f784caa6d8bafd620e1dee377cae7e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b70398bc9a707d84d35c34f50c0bc1f702d15935")]
 [assembly: System.Reflection.AssemblyProductAttribute("My first plugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pastaware")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
